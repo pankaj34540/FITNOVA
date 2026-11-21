@@ -1,0 +1,17 @@
+{
+  "name": "FITNOVA — Train Smart. Track Smart. Stay Strong.",
+  "short_name": "FITNOVA",
+  "description": "India's all-in-one fitness and lifestyle platform combining workouts, verified GPS running, 30-day fitness challenges, nutrition, calculators, and athletic gear.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101411",
+  "theme_color": "#101411",
+  "icons": [
+    {
+      "src": "/assets/aistudio/Muscular_Barbell_Emblem_with_Orbiting_Flare_22c19e00.png",
+      "sizes": "1274x1234",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

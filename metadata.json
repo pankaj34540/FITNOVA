@@ -1,0 +1,6 @@
+{
+  "name": "FITNOVA",
+  "description": "FITNOVA — Train Smart. Track Smart. Stay Strong. All-in-one fitness, GPS running, 30-day fitness challenge, nutrition, calculators, affiliate marketplace, and e-commerce platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
